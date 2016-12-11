@@ -12,7 +12,7 @@
     "theme"
   ],
   "activationCommands": {
-    "atom-workspace": ["atom-ambient-light:toggle", "atom-ambient-light:update"]
+    "atom-workspace": "atom-ambient-light:toggle"
   },
   "repository": "https://github.com/gnestor/atom-ambient-light",
   "license": "MIT",
