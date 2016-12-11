@@ -1,7 +1,7 @@
 {
   "name": "atom-ambient-light",
   "main": "./lib/atom-ambient-light",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
     "atom",
@@ -20,7 +20,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "ambient-light-sensor": "0.0.1",
+    "ambient-light-sensor": "^0.0.1",
     "color": "^1.0.2",
     "css": "^2.2.1"
   },
