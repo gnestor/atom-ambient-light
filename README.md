@@ -1,12 +1,12 @@
-# atom-ambient-light
+# ☀️ atom-ambient-light
 
-An [Atom](https://atom.io/) plugin that tweens between the active syntax theme and an inverse of it based on the device's ambient light level
+An [Atom](https://atom.io/) plugin that tweens between the active syntax theme and an inverse of it based on the device's ambient light level (macOS only 😕)
 
 ![1](http://g.recordit.co/YZJG0i0GEq.gif)
 
 <!-- ![1](http://g.recordit.co/y8tn4DnLdT.gif) -->
 
-## Install
+## 💾 Install
 
 Install via Atom's [Install view](http://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) or via [apm](http://flight-manual.atom.io/using-atom/sections/atom-packages/#command-line):
 
@@ -14,15 +14,15 @@ Install via Atom's [Install view](http://flight-manual.atom.io/using-atom/sectio
 apm intall atom-ambient-light
 ```
 
-## Usage
+## 💻 Usage
 
 Use Atom's [command palette](http://flight-manual.atom.io/getting-started/sections/atom-basics/#command-palette) to toggle ambient light mode on or off or [set a keymap](http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/) for it.
 
 ![screenshot](https://github.com/gnestor/atom-ambient-light/raw/master/assets/screenshot.png)
 
-## Contributing
+## 👍 Contributing
 
-Use the Atom [contributing guidelines](https://atom.io/docs/latest/contributing)
+Use the Atom [contributing guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 
 ### Workflow
 
