@@ -1,6 +1,6 @@
-# ☀️ atom-ambient-light
+# 💡 atom-ambient-light
 
-An [Atom](https://atom.io/) plugin that tweens between the active syntax theme and an inverse of it based on the device's ambient light level (macOS only 😕)
+An [Atom](https://atom.io/) package that transforms your syntax theme based on ambient light levels (macOS only 😕)
 
 ![1](http://g.recordit.co/YZJG0i0GEq.gif)
 
@@ -22,7 +22,7 @@ Use Atom's [command palette](http://flight-manual.atom.io/getting-started/sectio
 
 ## 👍 Contributing
 
-Use the Atom [contributing guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+See the Atom [contributing guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 
 ### Workflow
 
