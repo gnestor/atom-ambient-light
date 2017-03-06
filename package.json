@@ -1,7 +1,7 @@
 {
   "name": "atom-ambient-light",
   "main": "./lib/atom-ambient-light",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A short description of your package",
   "keywords": [
     "atom",
